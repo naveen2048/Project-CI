@@ -14,15 +14,5 @@
     <file src="bin\WebApp-CI.dll" target="bin\WebApp-CI.dll" />
     <file src="bin\Newtonsoft.Json.dll" target="bin\Newtonsoft.Json.dll" />
     <file src="bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll" target="bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll" />
-    <file src="Content\bootstrap-theme.css" target="Content\bootstrap-theme.css" />
-    <file src="Content\bootstrap-theme.min.css" target="Content\bootstrap-theme.min.css" />
-    <file src="Content\bootstrap.css" target="Content\bootstrap.css" />
-    <file src="Content\bootstrap.css" target="Content\bootstrap.css" />
-    <file src="fonts\glyphicons-halflings-regular.eot" target="fonts\glyphicons-halflings-regular.eot" />
-    <file src="fonts\glyphicons-halflings-regular.svg" target="fonts\glyphicons-halflings-regular.svg" />
-    <file src="fonts\glyphicons-halflings-regular.ttf" target="fonts\glyphicons-halflings-regular.ttf" />
-    <file src="fonts\glyphicons-halflings-regular.woff" target="fonts\glyphicons-halflings-regular.woff" />
-    <file src="Scripts\bootstrap.min.js" target="Scripts\bootstrap.min.js" />
-    <file src="Scripts\jquery-1.9.0.min.js" target="Scripts\jquery-1.9.0.min.js" />
   </files>
 </package>
