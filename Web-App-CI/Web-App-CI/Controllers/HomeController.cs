@@ -5,7 +5,7 @@ using System.Web.Mvc;
 
 namespace Web_App_CI.Controllers
 {
-  [Authorize]
+  
   public class HomeController : Controller
   {
     public ActionResult Index( )
