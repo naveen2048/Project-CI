@@ -24,9 +24,5 @@
     <file src="fonts\glyphicons-halflings-regular.woff" target="fonts\glyphicons-halflings-regular.woff" />
     <file src="Scripts\bootstrap.min.js" target="Scripts\bootstrap.min.js" />
     <file src="Scripts\jquery-1.9.0.min.js" target="Scripts\jquery-1.9.0.min.js" />
-    <file src="default.aspx" target="default.aspx" />
-    <file src="index.html" target="index.html" />
-    <file src="Web.config" target="Web.config" />
-    <file src="Global.asax" target="Global.asax" />
   </files>
 </package>
