@@ -2,10 +2,12 @@
 <package>
   <metadata>
     <id>Web-App-CI</id>
-    <version>1.0.0</version>
-    <authors>Microsoft</authors>
+    <version>0.0.0</version>
+    <authors>Web-App-CI</authors>
+    <description>Web-App-CI</description>
+    <language>en-US</language>
     <dependencies>
       <dependency id="OctoPack" version="3.5.2" />
-    </dependencies> 
+    </dependencies>
   </metadata>
 </package>
