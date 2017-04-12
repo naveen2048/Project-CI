@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <metadata>
+    <id>Web-App-CI</id>
+    <version>1.0.0</version>
+    <authors>Microsoft</authors>
+    <dependencies>
+      <dependency id="OctoPack" version="3.5.2" />
+    </dependencies> 
+  </metadata>
+</package>
