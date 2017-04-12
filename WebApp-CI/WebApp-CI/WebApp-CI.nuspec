@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <version>0.00</version>
+    <authors>NetPeach Inc.</authors>
+    <owners>NetPeach Inc.</owners>
+    <id>WebProject</id>
+    <title>WebProject</title>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Description</description>
+    <copyright>Copyright James Heppinstall 2012</copyright>
+  </metadata>
+  <files>
+     <file src="bin\WebApp-CI.dll" target="bin\WebApp-CI.dll" />
+     <file src="bin\Newtonsoft.Json.dll" target="bin\Newtonsoft.Json.dll" />
+     <file src="bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll" target="bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll" />
+  </files>
+</package>

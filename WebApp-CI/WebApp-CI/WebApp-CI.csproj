@@ -107,6 +107,7 @@
     <None Include="Web.Release.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
+    <Content Include="WebApp-CI.nuspec" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="index.html" />
